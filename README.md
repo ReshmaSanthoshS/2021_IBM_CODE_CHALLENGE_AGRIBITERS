@@ -12,7 +12,8 @@ PROGRESS SO FAR (DAY 1)
 
 3. Website:
 • Created the basic framework of the website with most of the relevant information farmers could have use of.
-https://aswathyskumar144.wixsite.com/agribiters
+  https://aswathyskumar144.wixsite.com/agribiters
 
 FOR DAY2-PLAN OF ACTION
+
 Second filtration in image processing along with futher refinement of ML model and linking of database (with farmer inputs via website) with the analysis portion for seamless integration of processes to be done.
